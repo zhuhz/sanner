@@ -1,5 +1,5 @@
 {
-    "name": "magicphp/scanner",
+    "name": "magic2php/scanner",
     "description": "Scan an array of URLs and report inaccessible URLs",
     "keywords": ["url", "scanner", "csv"],
     "homepage": "http://example.com",

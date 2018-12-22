@@ -4,7 +4,7 @@
     "keywords": ["url", "scanner", "csv"],
     "homepage": "http://example.com",
     "license": "MIT",
-    "minimum-stability": "1.0.0",
+    "minimum-stability": "stable",
     "version": "1.0.0",    
     "authors": [
         {

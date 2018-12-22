@@ -7,5 +7,5 @@ Scan an array of URLs and report inaccessible URLs
 Via Composer
 
 ``` bash
-$ composer require magicphp/scanner
+$ composer require magic2php/scanner
 ```

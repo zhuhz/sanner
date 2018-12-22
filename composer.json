@@ -1,9 +1,11 @@
 {
-    "name": "magicphp/scanner",
+    "name": "magic2php/scanner",
     "description": "Scan an array of URLs and report inaccessible URLs",
     "keywords": ["url", "scanner", "csv"],
     "homepage": "http://example.com",
     "license": "MIT",
+    "minimum-stability": "stable",
+    "version": "1.0.0",    
     "authors": [
         {
             "name": "zhuhz",
